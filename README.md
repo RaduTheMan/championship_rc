@@ -6,7 +6,7 @@ Aceasta aplicatie client/server numita 'Championship' a fost realizata sub siste
 
 <h2> Indicatii fisiere sursa </h2>
 
-Client(folderul Championship):
+<h3> Client(folderul Championship) </h3>
 
 Fisiere sursa:
 createchampionship.cpp
@@ -25,7 +25,7 @@ mainwindow.h
 tournamentobj.h
 tournamentwindow.h
 
-Server(folderul ServerPr)
+<h3>Server(folderul ServerPr)</h3>
 
 Fisiere sursa:
 main.cpp
