@@ -9,13 +9,15 @@ Aceasta aplicatie client/server numita 'Championship' a fost realizata sub siste
 <h3> Client(folderul Championship) </h3>
 
 Fisiere sursa:
-createchampionship.cpp
-main.cpp
-mainapp.cpp
-mainregister.cpp
-mainwindow.cpp
-tournamentobj.cpp
-tournamentwindow.cpp
+<ul>
+  <li>createchampionship.cpp</li>
+  <li>main.cpp</li>
+  <li>mainapp.cpp</li>
+  <li>mainregister.cpp</li>
+  <li>mainwindow.cpp</li>
+  <li>tournamentobj.cpp</li>
+  <li>tournamentwindow.cpp</li>
+</ul>
 
 Headers:
 createchampionship.h
