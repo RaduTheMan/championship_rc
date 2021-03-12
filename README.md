@@ -1,6 +1,6 @@
 # championship_rc
 
-Radu Damian 
+<p>Radu Damian </p>
 
 <p>Aceasta aplicatie client/server numita 'Championship' a fost realizata sub sistemul de operare Linux Mint in cadrul disciplinei 'Retele de calculatoare' de la Facultatea de Informatica, Iasi, in anul universitar 2020/2021. Pentru implementare s-a utilizat limbajul C++ impreuna cu libraria Qt. Mai multe detalii pot fi consultate in documentatia in format pdf.</p>
 
