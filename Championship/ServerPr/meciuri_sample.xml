@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<meciuri>
+  <meci>
+    <indexmeci></indexmeci>
+    <idcamp></idcamp>
+    <indexmeci1></indexmeci1>
+    <indexmeci2></indexmeci2>
+    <idplayer1></idplayer1>
+    <idplayer2></idplayer2>
+    <scor></scor>
+  </meci>
+</meciuri>

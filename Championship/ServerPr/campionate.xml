@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<campionate>
+ <campionat>
+  <id>1</id>
+  <nume>caterinca</nume>
+  <joc>League of Legends</joc>
+  <nrjuc>8</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>2</idadmin>
+  <status>desfasurare</status>
+ </campionat>
+ <campionat>
+  <id>2</id>
+  <nume>plictiseala</nume>
+  <joc>Rocket League</joc>
+  <nrjuc>16</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>2</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>3</id>
+  <nume>French Open</nume>
+  <joc>Fifa 21</joc>
+  <nrjuc>4</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>3</idadmin>
+  <status>desfasurare</status>
+ </campionat>
+ <campionat>
+  <id>4</id>
+  <nume>Australian Open</nume>
+  <joc>Virtual Tennis</joc>
+  <nrjuc>8</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>3</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>5</id>
+  <nume>lets play</nume>
+  <joc>8 ball pool</joc>
+  <nrjuc>4</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>2</idadmin>
+  <status>desfasurare</status>
+ </campionat>
+ <campionat>
+  <id>6</id>
+  <nume>masters</nume>
+  <joc>Fortnite</joc>
+  <nrjuc>4</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>desfasurare</status>
+ </campionat>
+ <campionat>
+  <id>7</id>
+  <nume>jkl</nume>
+  <joc>CS GO</joc>
+  <nrjuc>16</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>8</id>
+  <nume>skra</nume>
+  <joc>PUBG</joc>
+  <nrjuc>16</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>9</id>
+  <nume>turneu1</nume>
+  <joc>Rocket League</joc>
+  <nrjuc>4</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>10</id>
+  <nume>turneu2</nume>
+  <joc>Rocket League</joc>
+  <nrjuc>8</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>2</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>11</id>
+  <nume>turneu3</nume>
+  <joc>Pocket Tanks</joc>
+  <nrjuc>16</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>12</id>
+  <nume>turneu4</nume>
+  <joc>Fifa 15</joc>
+  <nrjuc>4</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>13</id>
+  <nume>turneu5</nume>
+  <joc>Fifa 16</joc>
+  <nrjuc>4</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>14</id>
+  <nume>turneu6</nume>
+  <joc>fifa 07</joc>
+  <nrjuc>8</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>2</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>15</id>
+  <nume>turneu7</nume>
+  <joc>Hearthstone</joc>
+  <nrjuc>8</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>4</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>16</id>
+  <nume>turneu8</nume>
+  <joc>Ping pong</joc>
+  <nrjuc>8</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Single elimination</elimination>
+  <idadmin>2</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+ <campionat>
+  <id>17</id>
+  <nume>test</nume>
+  <joc>Rocket League</joc>
+  <nrjuc>8</nrjuc>
+  <phases>Eliminatory phases</phases>
+  <elimination>Double elimination</elimination>
+  <idadmin>18</idadmin>
+  <status>inregistrare</status>
+ </campionat>
+</campionate>

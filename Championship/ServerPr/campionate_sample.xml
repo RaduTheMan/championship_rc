@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<campionate>
+  <campionat>
+    <id>1</id> //nu primesc
+    <nume>boss</nume>
+    <joc>roacket league</joc>
+    <nrjuc>8</nrjuc>
+    <phases>eliminatory phases</phases>
+    <elimination>single elimination</elimination>
+    <idadmin>2</idadmin>
+    <status>inregistrare</status> //nu primesc
+  </campionat>
+
+</campionate>
